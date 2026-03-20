@@ -73,6 +73,7 @@ The dataset contains **200,000 unique records** collected over a **two-year peri
 ### Step 2 — Data Cleaning & Wrangling
 
 SQL script: see `clean raw data.sql`
+<img src="/sql_snip.PNG" width="100%">
 
 #### Key Transformations
 
