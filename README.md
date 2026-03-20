@@ -4,9 +4,7 @@
 Tableau Public:  
 https://public.tableau.com/app/profile/stephanie.yan1872/viz/Cross-ChannelMarketingPerformanceDashboard_17738522255970/Dashboard1#2
 
-## Dashboard Preview
-
-![Dashboard Preview](Cross-Channel-Marketing-Performance-Dashboard/Dashboard%201.png)
+<img src="Cross-Channel-Marketing-Performance-Dashboard/dashboard_preview.png" width="100%">
 
 ---
 
