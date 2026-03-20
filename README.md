@@ -146,7 +146,7 @@ Created each worksheet for cards and visualizations such as:
 
 #### 3.Channel Performance
 - Compare clicks and ROI by channel
-
+<img src="/viz_snip.PNG" width="100%">
 #### 4. Campaign Type Analysis
 - Conversion rate by campaign type
 
