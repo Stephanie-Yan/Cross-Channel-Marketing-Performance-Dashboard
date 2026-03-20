@@ -46,6 +46,13 @@ SQL script: see `clean raw data.sql`
 
 #### 🔹 Key Transformations
 
+- **Handled missing and inconsistent values**
+  - Replaced NULL and empty values in categorical fields with standardized labels (e.g., `"Unknown"`)
+  - Ensured no blank or inconsistent text values across key dimensions
+  - Applied consistent formatting to improve downstream analysis in Tableau
+
+---
+
 - **Standardized text fields**
   - Removed leading/trailing spaces using `TRIM()`
   - Applied to:
@@ -61,17 +68,6 @@ SQL script: see `clean raw data.sql`
 
 - **Converted Duration into numeric format**
   - Extracted numeric value from text like `"45 days"`
-
-```sql
-CAST(REGEXP_EXTRACT(Duration, r'(\d+)') AS INT64) AS duration_days
-| Column           | Transformation   |
-| ---------------- | ---------------- |
-| Conversion_Rate  | STRING → FLOAT64 |
-| Acquisition_Cost | STRING → FLOAT64 |
-| ROI              | STRING → FLOAT64 |
-| Clicks           | STRING → INT64   |
-| Impressions      | STRING → INT64   |
-| Engagement_Score | STRING → INT64   |
 
 - **Output Table
 Marketing_Campaign_Performance_Dataset.cleaned_campaign_data
