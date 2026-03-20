@@ -44,7 +44,7 @@ The goal is to build an **interactive dashboard** that helps stakeholders:
 
 SQL script: see `clean raw data.sql`
 
-#### 🔹 Key Transformations
+#### Key Transformations
 
 - **Handled missing and inconsistent values**
   - Replaced NULL and empty values in categorical fields with standardized labels (e.g., `"Unknown"`)
@@ -69,5 +69,5 @@ SQL script: see `clean raw data.sql`
 - **Converted Duration into numeric format**
   - Extracted numeric value from text like `"45 days"`
 
-- **Output Table
-Marketing_Campaign_Performance_Dataset.cleaned_campaign_data
+Output Table
+`Marketing_Campaign_Performance_Dataset.cleaned_campaign_data`
