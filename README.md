@@ -172,7 +172,7 @@ Enabled Global filters that apply to all visuals:
 ---
 ## Key Insights:
 I found that while overall engagement remained stable, high-intent channels like Google Ads drove significantly higher ROI despite lower volume. I also identified that the 25–34 demographic consistently generated the highest returns, particularly within specific segments like tech and food-related audiences.
-
+I also identified that West Coast regions not only generated higher engagement but also delivered stronger ROI, which suggests a high-value market where increasing budget allocation could drive further growth
 ### 1. Channel Trends & Seasonality
 - No strong seasonality was observed in total clicks throughout the year, indicating relatively stable overall engagement.
 - However, **Google Ads experienced a noticeable decline after Q1**, suggesting potential budget shifts, reduced campaign effectiveness, or increased competition in later periods.
