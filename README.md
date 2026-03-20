@@ -3,7 +3,7 @@
 ## Live Dashboard
 Tableau Public:  
 https://public.tableau.com/app/profile/stephanie.yan1872/viz/Cross-ChannelMarketingPerformanceDashboard_17738522255970/Dashboard1#2
-
+/Dashboard 1.png
 ---
 
 ## Project Overview
@@ -97,7 +97,7 @@ SQL script: see `clean raw data.sql`
 - **Converted Duration into numeric format**
   - Extracted numeric value from text like `"45 days"`
 
-Output Table
+Output Table  
 `Marketing_Campaign_Performance_Dataset.cleaned_campaign_data`
 ---
 
@@ -157,3 +157,10 @@ Created each worksheet for cards and visualizations such as:
 
 #### 7.Geographic Performance
 - Clicks by location
+### Step 8 — Interactivity
+Enabled Global filters that apply to all visuals:
+- Campaign Type  
+- Channel  
+- Location  
+- Language  
+
