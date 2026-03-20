@@ -173,46 +173,34 @@ Enabled Global filters that apply to all visuals:
 ## Key Insights:
 I found that while overall engagement remained stable, high-intent channels like Google Ads drove significantly higher ROI despite lower volume. I also identified that the 25–34 demographic consistently generated the highest returns, particularly within specific segments like tech and food-related audiences.
 I also identified that West Coast regions not only generated higher engagement but also delivered stronger ROI, which suggests a high-value market where increasing budget allocation could drive further growth
-### 1. Channel Trends & Seasonality
-- No strong seasonality was observed in total clicks throughout the year, indicating relatively stable overall engagement.
-- However, **Google Ads experienced a noticeable decline after Q1**, suggesting potential budget shifts, reduced campaign effectiveness, or increased competition in later periods.
+
+### 1. Channel Trends
+- Overall clicks stay fairly stable throughout the year, with no clear seasonality.
+- One exception is Google Ads, which drops noticeably after Q1. This could be due to budget changes or performance decline later in the year.
 
 ---
 
-### 2. Channel Performance Efficiency
-- **Google Ads delivered one of the highest ROI and CTR**, despite generating relatively low total clicks compared to other channels.
-- This indicates that Google Ads drives **high-quality, high-intent traffic** rather than volume.
-- The strongest ROI performance for Google Ads is associated with **email-type campaigns**, highlighting a potential cross-channel synergy.
+### 2. Channel Performance
+- Google Ads stands out with strong ROI and CTR, even though it brings in fewer clicks compared to other channels.
+- This suggests it’s driving more high-intent traffic rather than just volume.
+- Its best performance seems to come from email-related campaigns.
 
 ---
 
-### 3. Campaign Type Effectiveness
-- Conversion rates are relatively consistent across all campaign types, suggesting similar funnel efficiency.
-- However, **Influencer and Search campaigns outperform others in ROI**, indicating stronger revenue generation relative to cost.
-- This suggests that campaign selection impacts profitability more than conversion efficiency.
+### 3. Campaign Type Performance
+- Conversion rates are pretty similar across all campaign types.
+- However, influencer and search campaigns generate better ROI, meaning they are more cost-effective overall.
 
 ---
 
-### 4. Customer Persona Insights
-- The highest ROI is driven by **Men aged 25–34**, followed closely by **Women aged 25–34**.
-- Campaigns targeting these groups via **Facebook** show particularly strong performance.
-- Key high-performing customer segments include:
-  - Foodies  
-  - Tech Enthusiasts  
-  - Health & Wellness audiences  
-
-- While total clicks are relatively similar across segments, **ROI varies significantly**, indicating differences in monetization effectiveness rather than engagement.
+### 4. Customer Segments & Audience
+- The 25–34 age group performs the best, especially men, followed by women in the same range.
+- Facebook campaigns targeting these groups tend to perform well.
+- Segments like foodies, tech enthusiasts, and health & wellness show higher ROI.
+- Click volume is fairly consistent across segments, but ROI varies more, which suggests differences in customer value rather than engagement.
 
 ---
 
-### 5. Strategic Implications
-- Focus budget allocation on **high-ROI channels (Google Ads, Influencer, Search)** rather than high-volume channels.
-- Prioritize targeting **25–34 age group audiences**, especially in high-performing segments.
-- Leverage **Facebook and Email channels** for more effective persona-based targeting.
-- Investigate the post-Q1 decline in Google Ads performance to optimize long-term campaign strategy.
-
-### 6. Geographic Performance
-
-- **West Coast regions outperform other locations in both total clicks and ROI**, indicating stronger engagement and higher marketing efficiency.
-- This suggests that campaigns targeting West Coast audiences are both **high-volume and high-value**.
-- The combination of strong traffic and profitability highlights the West Coast as a **priority market for scaling marketing investment**.
+### 5. Geographic Performance
+- The West Coast shows stronger performance overall, with both higher total clicks and higher ROI.
+- Compared to other regions, it stands out as a more effective market in terms of both reach and return.
