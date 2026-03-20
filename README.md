@@ -114,7 +114,6 @@ Output Table
 ### Step 2 — KPI metrics Development
 
 Created calculated fields:
-
 - **Total Clicks**  
   `SUM([Clicks])`
 
@@ -132,6 +131,8 @@ Created calculated fields:
 
 - **CTR (Click-Through Rate)**  
   `SUM([Clicks]) / SUM([Impressions])`
+  <img src="/calculated_field_snip.PNG" width="100%">
+
 ### Step 3 — Build Dashboard Components
 Created each worksheet for cards and visualizations such as:
 #### 1. KPI cards creations
