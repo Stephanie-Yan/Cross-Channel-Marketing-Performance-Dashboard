@@ -1,4 +1,4 @@
-# Cross-Channel Marketing Performance Dashboard
+# Building Cross-Channel Marketing Performance Dashboard
 
 ## Live Dashboard
 Tableau Public:  
@@ -30,7 +30,7 @@ The goal is to build an **interactive dashboard** that helps stakeholders:
 
 - Dataset: Kaggle Marketing Campaign Performance dataset  
 - Source: [https://www.kaggle.com/code/alybalmes/marketing-campaign-performance-analysis ](https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset?resource=download) 
-### Dataset Description
+#### 1. Dataset Description
 
 The **Marketing Campaign Performance Dataset** provides a comprehensive view of how different marketing campaigns perform across channels, audiences, and companies. It includes key metrics such as engagement, conversion, cost efficiency, and return on investment, enabling in-depth analysis of campaign effectiveness.
 
@@ -40,7 +40,7 @@ The dataset contains **200,000 unique records** collected over a **two-year peri
 
 ---
 
-### Dataset Columns
+#### 2. Dataset Columns
 
 | Column Name         | Description |
 |--------------------|------------|
@@ -61,7 +61,7 @@ The dataset contains **200,000 unique records** collected over a **two-year peri
 | **Date**           | Campaign date for time-based analysis. |
 ---
 
-## Data Engineering (BigQuery)
+## Data Engineering (Google BigQuery)
 
 ### Step 1 — Load Raw Data
 - Uploaded dataset into Google BigQuery  
@@ -99,3 +99,61 @@ SQL script: see `clean raw data.sql`
 
 Output Table
 `Marketing_Campaign_Performance_Dataset.cleaned_campaign_data`
+---
+
+## Data Visualization (Tableau)
+
+### Step 1 — Connect to Tableau
+
+- Exported cleaned data as CSV into Google Drive  
+- Loaded data into Tableau Public using a Google connection
+- Make an extract from this data source
+### Step 2 — KPI metrics Development
+
+Created calculated fields:
+
+- **Total Clicks**  
+  `SUM([Clicks])`
+
+- **Total Impressions**  
+  `SUM([Impressions])`
+
+- **Average Conversion Rate**  
+  `AVG([Conversion_Rate])`
+
+- **Average ROI**  
+  `AVG([ROI])`
+
+- **Average Acquisition Cost**  
+  `AVG([Acquisition_Cost])`
+
+- **CTR (Click-Through Rate)**  
+  `SUM([Clicks]) / SUM([Impressions])`
+### Step 3 — Build Dashboard Components
+Created each worksheet for cards and visualizations such as:
+#### 1. KPI cards creations
+- Total Clicks  
+- Total Impressions  
+- Avg Conversion Rate  
+- Avg ROI  
+- Avg Acquisition Cost 
+#### 2.Trend Analysis
+- Clicks over time (monthly trend)
+
+#### 3.Channel Performance
+- Compare clicks and ROI by channel
+
+#### 4. Campaign Type Analysis
+- Conversion rate by campaign type
+
+#### 5.Customer Persona Analysis
+- Performance by customer segment  
+- Includes:
+  - Language breakdown  
+  - Location insights  
+
+#### 6.Audience Insights
+- Gender & age group segmentation
+
+#### 7.Geographic Performance
+- Clicks by location
