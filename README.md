@@ -170,9 +170,8 @@ Enabled Global filters that apply to all visuals:
 
 
 ---
-## Key Insights:
-I found that while overall engagement remained stable, high-intent channels like Google Ads drove significantly higher ROI despite lower volume. I also identified that the 25–34 demographic consistently generated the highest returns, particularly within specific segments like tech and food-related audiences.
-I also identified that West Coast regions not only generated higher engagement but also delivered stronger ROI, which suggests a high-value market where increasing budget allocation could drive further growth
+## Key Findings:
+
 
 ### 1. Channel Trends
 - Overall clicks stay fairly stable throughout the year, with no clear seasonality.
@@ -204,3 +203,7 @@ I also identified that West Coast regions not only generated higher engagement b
 ### 5. Geographic Performance
 - The West Coast shows stronger performance overall, with both higher total clicks and higher ROI.
 - Compared to other regions, it stands out as a more effective market in terms of both reach and return.
+  
+## Final Insights
+I found that while overall engagement remained stable, high-intent channels like Google Ads drove significantly higher ROI despite lower volume. I also identified that the 25–34 demographic consistently generated the highest returns, particularly within specific segments like tech and food-related audiences.
+I also identified that West Coast regions not only generated higher engagement but also delivered stronger ROI, which suggests a high-value market where increasing budget allocation could drive further growth
