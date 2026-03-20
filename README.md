@@ -168,3 +168,51 @@ Enabled Global filters that apply to all visuals:
 - Location  
 - Language  
 
+
+---
+## Key Insights:
+I found that while overall engagement remained stable, high-intent channels like Google Ads drove significantly higher ROI despite lower volume. I also identified that the 25–34 demographic consistently generated the highest returns, particularly within specific segments like tech and food-related audiences.
+
+### 1. Channel Trends & Seasonality
+- No strong seasonality was observed in total clicks throughout the year, indicating relatively stable overall engagement.
+- However, **Google Ads experienced a noticeable decline after Q1**, suggesting potential budget shifts, reduced campaign effectiveness, or increased competition in later periods.
+
+---
+
+### 2. Channel Performance Efficiency
+- **Google Ads delivered one of the highest ROI and CTR**, despite generating relatively low total clicks compared to other channels.
+- This indicates that Google Ads drives **high-quality, high-intent traffic** rather than volume.
+- The strongest ROI performance for Google Ads is associated with **email-type campaigns**, highlighting a potential cross-channel synergy.
+
+---
+
+### 3. Campaign Type Effectiveness
+- Conversion rates are relatively consistent across all campaign types, suggesting similar funnel efficiency.
+- However, **Influencer and Search campaigns outperform others in ROI**, indicating stronger revenue generation relative to cost.
+- This suggests that campaign selection impacts profitability more than conversion efficiency.
+
+---
+
+### 4. Customer Persona Insights
+- The highest ROI is driven by **Men aged 25–34**, followed closely by **Women aged 25–34**.
+- Campaigns targeting these groups via **Facebook** show particularly strong performance.
+- Key high-performing customer segments include:
+  - Foodies  
+  - Tech Enthusiasts  
+  - Health & Wellness audiences  
+
+- While total clicks are relatively similar across segments, **ROI varies significantly**, indicating differences in monetization effectiveness rather than engagement.
+
+---
+
+### 5. Strategic Implications
+- Focus budget allocation on **high-ROI channels (Google Ads, Influencer, Search)** rather than high-volume channels.
+- Prioritize targeting **25–34 age group audiences**, especially in high-performing segments.
+- Leverage **Facebook and Email channels** for more effective persona-based targeting.
+- Investigate the post-Q1 decline in Google Ads performance to optimize long-term campaign strategy.
+
+### 6. Geographic Performance
+
+- **West Coast regions outperform other locations in both total clicks and ROI**, indicating stronger engagement and higher marketing efficiency.
+- This suggests that campaigns targeting West Coast audiences are both **high-volume and high-value**.
+- The combination of strong traffic and profitability highlights the West Coast as a **priority market for scaling marketing investment**.
